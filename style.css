@@ -136,11 +136,11 @@ h1{
 }
 
 .social-icon{
-  width: 46px;
-  height: 46px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
-  background: rgba(255,255,255,0.1);
-  border: 1px solid rgba(255,255,255,0.25);
+  background: #0A66C2;
+  border: 1px solid #0A66C2;
   display:flex;
   align-items:center;
   justify-content:center;
@@ -148,7 +148,7 @@ h1{
   transition: background .18s ease, transform .18s ease;
 }
 .social-icon:hover{
-  background: rgba(255,255,255,0.2);
+  background: #0958a8;
   transform: translateY(-2px);
 }
-.social-icon svg{ width:20px; height:20px; }
+.social-icon svg{ width:22px; height:22px; }
